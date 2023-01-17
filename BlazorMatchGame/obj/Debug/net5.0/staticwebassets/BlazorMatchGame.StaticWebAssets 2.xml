@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/Users/zhanghanjia/Desktop/C# /week1/BlazorMatchGame/BlazorMatchGame/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/zhanghanjia/Desktop/C# /week1/BlazorMatchGame/BlazorMatchGame/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>
